@@ -35,7 +35,7 @@ Assessing performance using confusion matrix, ROC curve, precision-recall curve,
 - ![hist](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Education%20Field%20vs%20Attrition.png)
 
 ### 📈 Model Evaluation Step  
-- ![loss](gfskks) 
+- ![loss](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Loss%20Over%20Epochs.png) 
 - ![acc](uhfjd) 
 - ![martix](jhhf)
 
