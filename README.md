@@ -30,14 +30,14 @@ Assessing performance using confusion matrix, ROC curve, precision-recall curve,
 ##  Visualizations
 
 ### 📊 Data Analysis Step  
-- ![pie](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Distribution%20of%20Attrition.png) 
-- ![bar](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Distance%20from%20Home%20vs%20Attrition.png) 
-- ![hist](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Education%20Field%20vs%20Attrition.png)
+![pie](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Distribution%20of%20Attrition.png) 
+![bar](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Distance%20from%20Home%20vs%20Attrition.png) 
+![hist](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Education%20Field%20vs%20Attrition.png)
 
 ### 📈 Model Evaluation Step  
-- ![loss](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Loss%20Over%20Epochs.png) 
-- ![acc](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Accuracy%20Over%20Epochs.png) 
-- ![martix](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Confusion%20Matrix.png)
+![loss](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Loss%20Over%20Epochs.png) 
+![acc](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Accuracy%20Over%20Epochs.png) 
+![martix](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Confusion%20Matrix.png)
 
 ---
 🙏 Thank you for exploring this project. Your time and curiosity mean a lot — and I hope it brings value to your learning journey.
