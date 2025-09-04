@@ -31,7 +31,7 @@ Assessing performance using confusion matrix, ROC curve, precision-recall curve,
 
 ### 📊 Data Analysis Step  
 - ![pie](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Distribution%20of%20Attrition.png) 
-- ![bar](uhfd) 
+- ![bar](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Distance%20from%20Home%20vs%20Attrition.png) 
 - ![hist](jhf)
 
 ### 📈 Model Evaluation Step  
