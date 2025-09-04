@@ -37,7 +37,7 @@ Assessing performance using confusion matrix, ROC curve, precision-recall curve,
 ### 📈 Model Evaluation Step  
 - ![loss](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Loss%20Over%20Epochs.png) 
 - ![acc](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Accuracy%20Over%20Epochs.png) 
-- ![martix](jhhf)
+- ![martix](https://github.com/Esraa-MOhamed7/Employee-Attrition-Prediction-with-NN/blob/main/Confusion%20Matrix.png)
 
 ---
 🙏 Thank you for exploring this project. Your time and curiosity mean a lot — and I hope it brings value to your learning journey.
